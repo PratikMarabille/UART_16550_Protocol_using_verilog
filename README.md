@@ -10,9 +10,9 @@ The UART 16550 is a popular asynchronous communication interface that is widely 
 * Line Status Register (LSR)
 
 ## Basic blocks of UART imlemented in this project
-Tramsmission Block 
-Reciever Block
-FIFO Block
-Register Block
-Baud rate Generator
+* Tramsmission Block 
+* Reciever Block
+* FIFO Block
+* Register Block
+* Baud rate Generator
  
