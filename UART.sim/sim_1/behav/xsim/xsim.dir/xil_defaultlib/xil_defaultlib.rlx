@@ -1,0 +1,9 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+E:/VLSI/UART/UART.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,uvm,,,,,,
+E:/VLSI/UART/UART.srcs/sim_1/new/tb_uarttx.v,1718566489,verilog,,,,tb_uarttx,,,,,,,,
+E:/VLSI/UART/UART.srcs/sources_1/new/fifo_top.sv,1722282346,systemVerilog,,E:/VLSI/UART/UART.srcs/sim_1/new/fifo_top.sv,,fifo_tb;fifo_top,,uvm,,,,,,
+E:/VLSI/UART/UART.srcs/sources_1/new/uart_tx.v,1718566400,verilog,,E:/VLSI/UART/UART.srcs/sim_1/new/tb_uarttx.v,,uarttx,,,,,,,,
+E:/VLSI/UART/UART.srcs/sources_1/new/uart_tx_top1.sv,1722368045,systemVerilog,,,,uart_tx_tb;uart_tx_top,,uvm,,,,,,
