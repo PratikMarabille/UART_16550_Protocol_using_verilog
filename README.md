@@ -9,7 +9,7 @@ The UART 16550 is a popular asynchronous communication interface that is widely 
 * Parity and Stop Bits
 * Line Status Register (LSR)
 
-## Basic blocks of UART imlemented in this project
+## Basic blocks of UART implemented in this project
 * Tramsmission Block 
 * Reciever Block
 * FIFO Block
